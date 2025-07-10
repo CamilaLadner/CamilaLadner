@@ -33,30 +33,28 @@ Tools:       Git · GitHub · Vite · Figma · Insomnia
 ### 🚀 Featured Project
 
 #### 🌟 Héroes Cercanos  
-**Plataforma solidaria para apoyar a bomberos voluntarios**
+**A solidarity platform to support volunteer firefighters**
 
-Una web inclusiva y accesible que permite visualizar campañas activas, necesidades del cuartel, y gestionar donaciones de forma transparente.  
-Diseñada con un enfoque empático, claro y funcional.
+A user-friendly web app that displays active campaigns, station needs, and donation tools in a clear and transparent way.  
+Built with an empathetic, accessible, and mobile-first approach.
 
-🛠 **Stack:** React · TypeScript · Tailwind CSS · Lucide   
-🔐 Autenticación local y externa con OAuth 2.0  
-🎨 UI minimalista con diseño accesible y adaptable  
-👥 Roles diferenciados para admins y usuarios  
-💌 Envío de emails de confirmación - Mailer y crons  
-📍 Geolocalización con Leaflet   
+🛠 **Stack:** React · TypeScript · Tailwind CSS · Lucide · Vite  
+🔐 Authentication via OAuth 2.0  
+🎨 Clean, minimal and responsive UI  
+👥 Role-based access for admins and users  
+📬 Email confirmations - Mailer y crons  
+📍 Geolocation with Leaflet   
 ☁️ Cloudinary  
 
-🛠 **Estado:** En desarrollo   
+📍 **Status:** In development  
 📁 https://github.com/HeroesCercanos/Front
 
 ---
 
 ### 📫 Let’s connect  
-💼 LinkedIn: www.linkedin.com/in/camila-inés-ladner-135b92b0
-
-💌 camilainesladner@gmail.com
-
-🌐 Portfolio (coming soon!)
+💼 LinkedIn: www.linkedin.com/in/camila-inés-ladner-135b92b0  
+💌 camilainesladner@gmail.com  
+🌐 Portfolio (coming soon!)  
 
 ____________________________
 “Code is not just logic — it's care, purpose, and possibility.”
