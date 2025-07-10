@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Developer | Frontend Specialist  
 👩‍💻 React · Next.js · Tailwind CSS · TypeScript  
-🌱 Currently learning: Accessibility · UX / UI
+🌱 Currently learning: Accessibility · UX / UI  
 🤍 Passionate about building tech with purpose
 
 ---
@@ -25,10 +25,10 @@ Tools:       Git · GitHub · Vite · Figma · Insomnia
 
 ### ✨ What I value
 
-🧠 Empathy & communication
-🧩 Organization & detail
-🌱 Continuous learning
-🤝 Collaboration with purpose
+🧠 Empathy & communication  
+🧩 Organization & detail  
+🌱 Continuous learning  
+🤝 Collaboration with purpose  
 
 ### 🚀 Featured Project
 
@@ -42,16 +42,16 @@ Diseñada con un enfoque empático, claro y funcional.
 🔐 Autenticación local y externa con OAuth 2.0  
 🎨 UI minimalista con diseño accesible y adaptable  
 👥 Roles diferenciados para admins y usuarios  
-💌 Envío de emails de confirmación - Mailer y crons
-📍 Geolocalización con Leaflet 
-☁️ Cloudinary
+💌 Envío de emails de confirmación - Mailer y crons  
+📍 Geolocalización con Leaflet   
+☁️ Cloudinary  
 
-🛠 **Estado:** En desarrollo 
+🛠 **Estado:** En desarrollo   
 📁 https://github.com/HeroesCercanos/Front
 
 ---
 
-### 📫 Let’s connect
+### 📫 Let’s connect  
 💼 LinkedIn: www.linkedin.com/in/camila-inés-ladner-135b92b0
 
 💌 camilainesladner@gmail.com
