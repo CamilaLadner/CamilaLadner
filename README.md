@@ -53,7 +53,9 @@ Diseñada con un enfoque empático, claro y funcional.
 
 ### 📫 Let’s connect
 💼 LinkedIn: www.linkedin.com/in/camila-inés-ladner-135b92b0
+
 💌 camilainesladner@gmail.com
+
 🌐 Portfolio (coming soon!)
 
 ____________________________
