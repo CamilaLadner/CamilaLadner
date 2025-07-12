@@ -52,7 +52,7 @@ Built with an empathetic, accessible, and mobile-first approach.
 ---
 
 ### 📫 Let’s connect  
-💼 LinkedIn: www.linkedin.com/in/camila-ladner
+💼 LinkedIn: www.linkedin.com/in/camila-ladner  
 💌 camilainesladner@gmail.com  
 🌐 Portfolio (coming soon!)  
 
