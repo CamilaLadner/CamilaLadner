@@ -44,9 +44,9 @@ Built with an empathetic, accessible, and mobile-first approach.
 👥 Role-based access for admins and users  
 📬 Email confirmations - Mailer and crons  
 📍 Geolocation with Leaflet   
-☁️ Cloudinary
-💲 MercadoPago
-📱 Responsive
+☁️ Cloudinary  
+💲 MercadoPago  
+📱 Responsive  
 
 📍 **Status:** In development  
 📁 https://heroes-cercanos-front.onrender.com/
