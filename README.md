@@ -38,16 +38,18 @@ Tools:       Git · GitHub · Vite · Figma · Insomnia
 A user-friendly web app that displays active campaigns, station needs, and donation tools in a clear and transparent way.  
 Built with an empathetic, accessible, and mobile-first approach.
 
-🛠 **Stack:** React · TypeScript · Tailwind CSS · Lucide · Vite  
+🛠 **Stack:** React Next.js · TypeScript · Tailwind CSS · Lucide  
 🔐 Authentication via OAuth 2.0  
 🎨 Clean, minimal and responsive UI  
 👥 Role-based access for admins and users  
-📬 Email confirmations - Mailer y crons  
+📬 Email confirmations - Mailer and crons  
 📍 Geolocation with Leaflet   
-☁️ Cloudinary  
+☁️ Cloudinary
+💲 MercadoPago
+📱 Responsive
 
 📍 **Status:** In development  
-📁 https://github.com/HeroesCercanos/Front
+📁 https://heroes-cercanos-front.onrender.com/
 
 ---
 
