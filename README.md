@@ -47,8 +47,7 @@ Built with an empathetic, accessible, and mobile-first approach.
 ☁️ Cloudinary  
 💲 MercadoPago  
 📱 Responsive  
-
-📍 **Status:** In development  
+ 
 📁 https://heroes-cercanos-front.onrender.com/
 
 ---
@@ -56,7 +55,7 @@ Built with an empathetic, accessible, and mobile-first approach.
 ### 📫 Let’s connect  
 💼 LinkedIn: www.linkedin.com/in/camila-ladner  
 💌 camilainesladner@gmail.com  
-🌐 Portfolio (coming soon!)  
+🌐 https://camilaladner.vercel.app/  
 
 ____________________________
 “Code is not just logic — it's care, purpose, and possibility.”
