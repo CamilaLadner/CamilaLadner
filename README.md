@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Developer | Frontend Specialist  
 👩‍💻 React · Next.js · Tailwind CSS · TypeScript  
-🌱 Currently learning: Sass (Syntactically Awesome Style Sheets) 
+🌱 Currently learning: Sass (Syntactically Awesome Style Sheets)   
 🤍 Passionate about building tech with purpose
 
 ---
