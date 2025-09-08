@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Developer | Frontend Specialist  
 👩‍💻 React · Next.js · Tailwind CSS · TypeScript  
-🌱 Currently learning: Accessibility · UX / UI  
+🌱 Currently learning: Sass (Syntactically Awesome Style Sheets)
 🤍 Passionate about building tech with purpose
 
 ---
@@ -12,16 +12,14 @@ I specialize in **frontend development**, creating clean, accessible and impactf
 
 💡 I believe technology is a powerful tool to **empower women**, promote **education**, and bring **empathy** to the digital world. I'm a mom, a wife and a Christian — and all of that shapes the way I code and collaborate.
 
-🌸 I’m currently looking to join projects or teams where I can grow, contribute, and build meaningful products with a **human-centered focus.**
-
 ---
 
 ### 🔧 Tech Stack
 
 Languages:   HTML · CSS · JavaScript · TypeScript  
-Frontend:    React · Next.js · Tailwind CSS   
+Frontend:    React · Next.js · Tailwind CSS · Sass
 Backend:     Node.js · Express · PostgreSQL · TypeORM  
-Tools:       Git · GitHub · Vite · Figma · Insomnia
+Tools:       Git · GitHub · Vite · Figma · Insomnia · Cursor
 
 ### ✨ What I value
 
@@ -29,6 +27,20 @@ Tools:       Git · GitHub · Vite · Figma · Insomnia
 🧩 Organization & detail  
 🌱 Continuous learning  
 🤝 Collaboration with purpose  
+
+
+---
+
+### 💼 Experience
+
+### Frontend Developer — Alaska Circular (Aug 2025 – Present)
+🌿 Contributing to a circular economy marketplace for sustainable furniture.
+⚡ Migrating a Vue.js application to **Next.js** for improved performance and scalability.
+🎨 Implementing TypeScript and **Sass** to enhance maintainability and **styling consistency**.
+📱 Focused on creating a **responsive, accessible and clean UI**, aligned with brand identity.
+
+---
+
 
 ### 🚀 Featured Project
 
