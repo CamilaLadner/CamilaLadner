@@ -33,11 +33,11 @@ Tools:       Git · GitHub · Vite · Figma · Insomnia · Cursor
 
 ### 💼 Experience
 
-### Frontend Developer — Alaska Circular (Aug 2025 – Present)
-🌿 Contributing to a circular economy marketplace for sustainable furniture.
-⚡ Migrating a Vue.js application to **Next.js** for improved performance and scalability.
-🎨 Implementing TypeScript and **Sass** to enhance maintainability and **styling consistency**.
-📱 Focused on creating a **responsive, accessible and clean UI**, aligned with brand identity.
+### Frontend Developer — Alaska Circular (Aug 2025 – Present)  
+🌿 Contributing to a circular economy marketplace for sustainable furniture.  
+⚡ Migrating a Vue.js application to **Next.js** for improved performance and scalability.  
+🎨 Implementing TypeScript and **Sass** to enhance maintainability and **styling consistency**.  
+📱 Focused on creating a **responsive, accessible and clean UI**, aligned with brand identity.  
 
 ---
 
