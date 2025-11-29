@@ -2,13 +2,13 @@
 
 ### 💻 Full Stack Developer | Frontend Specialist  
 👩‍💻 React · Next.js · Tailwind CSS · TypeScript  
-🌱 Currently learning: Sass (Syntactically Awesome Style Sheets)   
+🌱 Currently learning: Design - UXUI   
 🤍 Passionate about building tech with purpose
 
 ---
 
 Hi! I'm **Camila**, a full stack developer from Buenos Aires, Argentina 🇦🇷  
-I specialize in **frontend development**, creating clean, accessible and impactful user interfaces.
+I specialize in **frontend development**, creating clean, accessible and impactful user interfaces, with a strong eye for design.
 
 💡 I believe technology is a powerful tool to **empower women**, promote **education**, and bring **empathy** to the digital world. I'm a mom, a wife and a Christian — and all of that shapes the way I code and collaborate.
 
@@ -28,16 +28,18 @@ Tools:       Git · GitHub · Vite · Figma · Insomnia · Cursor
 🌱 Continuous learning  
 🤝 Collaboration with purpose  
 
-
 ---
 
 ### 💼 Experience
 
-### Frontend Developer — Alaska Circular (Aug 2025 – Present)  
+### Frontend Developer — Alaska Circular (Aug 2025 – Nov 2025)  
 🌿 Contributing to a circular economy marketplace for sustainable furniture.  
 ⚡ Migrating a Vue.js application to **Next.js** for improved performance and scalability.  
 🎨 Implementing TypeScript and **Sass** to enhance maintainability and **styling consistency**.  
 📱 Focused on creating a **responsive, accessible and clean UI**, aligned with brand identity.  
+
+Completed a stalled Vue-to-Next.js migration that had been on hold for four months, delivering the project in 45 days while taking ownership of 60% of the frontend development.
+**Improved performance scores from 34 to 98 through optimization and best-practice implementation.**
 
 ---
 
