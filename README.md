@@ -66,6 +66,26 @@ Built with an empathetic, accessible, and mobile-first approach.
 
 ---
 
+#### 🌟 Herbaria 
+**E-commerce of plants with a focus on well-being, knowledge and conscious use.**
+
+Herbaria is a frontend project that simulates a modern e-commerce platform for plants, with a strong focus on UX, visual design, and product thinking.
+The main idea is to build a clean, aesthetically pleasing, and functional landing page that allows users to choose plants without feeling overwhelmed by technical information or cluttered catalogs.
+Instead of selling plants randomly, Herbaria offers a guided, clear, and thoughtful selection process, prioritizing the user experience.
+
+🛠 **Stack:** React · TypeScript · CSS  
+🎨 Minimalist and green UI  
+🌿 Guided plant shopping experience  
+🧠 UX & product-driven development process  
+📐 Brief and wireframes created before coding   
+📊 Trust and social proof elements  
+📁 Scalable frontend architecture 
+ 
+📁 https://viverodigital-herbaria.vercel.app/
+
+---
+
+
 ### 📫 Let’s connect  
 💼 LinkedIn: www.linkedin.com/in/camila-ladner  
 💌 camilainesladner@gmail.com  
